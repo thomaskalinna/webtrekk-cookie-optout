@@ -1,0 +1,1 @@
+# webtrekk-cookie-optout
